@@ -1,0 +1,177 @@
+body{
+    height: 5000px;
+}
+
+
+.d-flex{
+    padding-left: 700px;
+}
+
+.rasha{
+    text-align: center;
+}
+
+
+.container-fluid22{
+    width: 100%;
+    height:200px ;
+    border: 1px  solid black;
+    background-color: rgb(3, 24, 206);
+
+}
+
+.fatma{
+    margin-top: 30px;
+    margin-left: 400px;
+    color: rgb(8, 141, 218);
+}
+.btn btn-primary{
+    padding-top:50px;
+}
+
+.nasr{
+    color: antiquewhite;
+}
+
+.p1{
+
+    color: aliceblue;
+}
+
+
+.container-fluid30{
+    margin-top: 60px;
+    width: 100%;
+    height: 200px;
+    border: 1px   solid black;
+    background-color: rgb(3, 88, 128);
+}
+.container-fluid33{
+    width: 100%;
+    height:200px ;
+    border: 1px  solid black;
+    background-color: rgb(51, 172, 228);
+
+}
+
+.container-fluid40{
+    width: 100%;
+    height:100px ;
+    border: 1px  solid black;
+    background-color: rgb(6, 63, 110);
+
+}
+
+.mama{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.data-bs-toggle{
+   background-color: blue; 
+}
+
+.imdg50{
+    width: 100%;
+    height: 300px;
+}
+
+.container55{
+    margin-left: 400px;
+    margin-top: 280px;
+}
+
+.container66{
+    margin-left: 800px;
+    margin-top: 580px;
+}
+
+.container77{
+    margin-top: 50px;
+}
+
+
+.container111{
+    margin-top: 1400px;
+    float: left;
+}
+
+
+.container222{
+    margin-top: 1400px;
+    float: left;
+    margin-left: 100px;
+}
+
+
+.container333{
+    margin-top: 1400px;
+    float: left;
+    margin-left: 100px;
+}
+
+
+
+.container777{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.container888{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+
+.container999{
+    float: left;
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.container0{
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+}
+
+.container00{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+
+}
+
+
+.container000{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+
+}
+
+.rr{
+    text-align: center;
+    color: rgb(238, 240, 241);
+}
+
+.card-title{
+    color: rgb(12, 107, 196);
+}
+
+
+.card-text{
+    color: rgb(11, 114, 248);
+    font-weight: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
